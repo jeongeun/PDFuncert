@@ -1,0 +1,5 @@
+./cmsCondor.sh -py=run2018_cfg.py  -dataset=/WprimeToENu_M_6200_TuneCP5_13TeV_pythia8_pdf/jschulte-RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2-2d2d54bc51391eefaee040affbf31d45/USER
+./cmsCondor.sh -py=run2018_cfg.py  -dataset=/WprimeToENu_M_6400_TuneCP5_13TeV_pythia8_pdf/jschulte-RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2-2d2d54bc51391eefaee040affbf31d45/USER
+./cmsCondor.sh -py=run2018_cfg.py  -dataset=/WprimeToENu_M_5000_TuneCP5_13TeV_pythia8_pdf/jschulte-RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2-2d2d54bc51391eefaee040affbf31d45/USER
+./cmsCondor.sh -py=run2018_cfg.py  -dataset=/WprimeToENu_M_6100_TuneCP5_13TeV_pythia8_pdf/jschulte-RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2-2d2d54bc51391eefaee040affbf31d45/USER
+./cmsCondor.sh -py=run2018_cfg.py  -dataset=/WprimeToENu_M_6300_TuneCP5_13TeV_pythia8_pdf/jschulte-RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2-2d2d54bc51391eefaee040affbf31d45/USER
