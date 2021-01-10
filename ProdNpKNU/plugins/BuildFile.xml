@@ -1,0 +1,37 @@
+<use name="FWCore/Framework"/>
+<use name="FWCore/PluginManager"/>
+<use name="FWCore/ParameterSet"/>
+<use name="FWCore/ServiceRegistry"/>
+
+<use name="DataFormats/Common"/>
+<use name="DataFormats/PatCandidates"/>
+<use name="DataFormats/ParticleFlowCandidate"/>
+<use name="DataFormats/RecoCandidate"/>
+<use name="DataFormats/MuonReco"/>
+<use name="DataFormats/TrackReco"/>
+<use name="DataFormats/ParticleFlowReco"/>
+<use name="DataFormats/EgammaCandidates"/>
+<use name="DataFormats/EcalRecHit"/>
+
+<use name="PhysicsTools/UtilAlgos"/>
+<use name="CommonTools/UtilAlgos"/>
+<use name="PhysicsTools/PatAlgos"/>
+<use name="PhysicsTools/PatUtils"/>
+<use name="CondFormats/DataRecord"/>
+<use name="CondFormats/EgammaObjects"/>
+
+<use name="RecoEgamma/ElectronIdentification"/>
+<use name="RecoEgamma/EgammaIsolationAlgos"/>
+<use name="RecoEgamma/EgammaTools"/>
+<use name="RecoEcal/EgammaCoreTools"/>
+<use name="JetMETCorrections/Algorithms"/>
+<use name="RecoParticleFlow/PFProducer"/>
+<use name="EgammaAnalysis/ElectronTools"/>
+<use name="MakeNpKNU/ProdNpKNU"/>
+
+<use name="root"/>
+<use name="rootcore"/>
+
+
+
+<flags EDM_PLUGIN="1"/>

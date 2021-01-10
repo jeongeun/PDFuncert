@@ -1,0 +1,212 @@
+
+Processing graph_nf4.C...
+ Wprime Mass = 0.2 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 3.79048 as = 0.61393 Combined = 3.83988
+PDFAsComb_mc_std  pdf = 1.5897 as = 0.61393 Combined = 1.70413
+PDFAsComb_100     pdf = 1.54104 as = 0.61393 Combined = 1.65883
+PDFAsComb_30      pdf = 1.40759 as = 0.61393 Combined = 1.53565
+ 
+ Wprime Mass = 0.4 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 3.978 as = 0.365508 Combined = 3.99476
+PDFAsComb_mc_std  pdf = 1.64895 as = 0.365508 Combined = 1.68897
+PDFAsComb_100     pdf = 1.67539 as = 0.365508 Combined = 1.7148
+PDFAsComb_30      pdf = 1.57946 as = 0.365508 Combined = 1.6212
+ 
+ Wprime Mass = 0.6 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 4.17791 as = 0.158293 Combined = 4.18091
+PDFAsComb_mc_std  pdf = 1.90262 as = 0.158293 Combined = 1.90919
+PDFAsComb_100     pdf = 1.97256 as = 0.158293 Combined = 1.9789
+PDFAsComb_30      pdf = 1.89449 as = 0.158293 Combined = 1.90109
+ 
+ Wprime Mass = 0.8 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 4.11058 as = 0.0169858 Combined = 4.11062
+PDFAsComb_mc_std  pdf = 2.25567 as = 0.0169858 Combined = 2.25573
+PDFAsComb_100     pdf = 2.35379 as = 0.0169858 Combined = 2.35385
+PDFAsComb_30      pdf = 2.25851 as = 0.0169858 Combined = 2.25857
+ 
+ Wprime Mass = 1 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 4.07158 as = 0.185627 Combined = 4.07581
+PDFAsComb_mc_std  pdf = 2.67604 as = 0.185627 Combined = 2.68247
+PDFAsComb_100     pdf = 2.77836 as = 0.185627 Combined = 2.78455
+PDFAsComb_30      pdf = 2.65131 as = 0.185627 Combined = 2.6578
+ 
+ Wprime Mass = 1.2 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 3.97858 as = 0.328465 Combined = 3.99212
+PDFAsComb_mc_std  pdf = 3.08111 as = 0.328465 Combined = 3.09857
+PDFAsComb_100     pdf = 3.18631 as = 0.328465 Combined = 3.2032
+PDFAsComb_30      pdf = 3.00943 as = 0.328465 Combined = 3.0273
+ 
+ Wprime Mass = 1.4 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 3.92956 as = 0.46502 Combined = 3.95698
+PDFAsComb_mc_std  pdf = 3.49261 as = 0.46502 Combined = 3.52343
+PDFAsComb_100     pdf = 3.61021 as = 0.46502 Combined = 3.64004
+PDFAsComb_30      pdf = 3.39122 as = 0.46502 Combined = 3.42295
+ 
+ Wprime Mass = 1.6 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 3.738 as = 0.58624 Combined = 3.78369
+PDFAsComb_mc_std  pdf = 3.88164 as = 0.58624 Combined = 3.92566
+PDFAsComb_100     pdf = 4.01692 as = 0.58624 Combined = 4.05947
+PDFAsComb_30      pdf = 3.76597 as = 0.58624 Combined = 3.81133
+ 
+ Wprime Mass = 1.8 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 3.77437 as = 0.700266 Combined = 3.83878
+PDFAsComb_mc_std  pdf = 4.27716 as = 0.700266 Combined = 4.33411
+PDFAsComb_100     pdf = 4.41937 as = 0.700266 Combined = 4.47451
+PDFAsComb_30      pdf = 4.13568 as = 0.700266 Combined = 4.19455
+ 
+ Wprime Mass = 2 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 4.51513 as = 0.835684 Combined = 4.59182
+PDFAsComb_mc_std  pdf = 4.75434 as = 0.835684 Combined = 4.82723
+PDFAsComb_100     pdf = 4.84822 as = 0.835684 Combined = 4.91972
+PDFAsComb_30      pdf = 4.49279 as = 0.835684 Combined = 4.56985
+ 
+ Wprime Mass = 2.2 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 4.49072 as = 0.908999 Combined = 4.58179
+PDFAsComb_mc_std  pdf = 5.10274 as = 0.908999 Combined = 5.18307
+PDFAsComb_100     pdf = 5.16246 as = 0.908999 Combined = 5.24188
+PDFAsComb_30      pdf = 4.81085 as = 0.908999 Combined = 4.89597
+ 
+ Wprime Mass = 2.4 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 4.66641 as = 1.0168 Combined = 4.7759
+PDFAsComb_mc_std  pdf = 5.5392 as = 1.0168 Combined = 5.63175
+PDFAsComb_100     pdf = 5.55496 as = 1.0168 Combined = 5.64725
+PDFAsComb_30      pdf = 5.0939 as = 1.0168 Combined = 5.19439
+ 
+ Wprime Mass = 2.6 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 5.84736 as = 1.12154 Combined = 5.95395
+PDFAsComb_mc_std  pdf = 6.1562 as = 1.12154 Combined = 6.25753
+PDFAsComb_100     pdf = 6.04259 as = 1.12154 Combined = 6.14579
+PDFAsComb_30      pdf = 5.33608 as = 1.12154 Combined = 5.45267
+ 
+ Wprime Mass = 2.8 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 6.28274 as = 1.15851 Combined = 6.38866
+PDFAsComb_mc_std  pdf = 6.65744 as = 1.15851 Combined = 6.75749
+PDFAsComb_100     pdf = 6.46164 as = 1.15851 Combined = 6.56467
+PDFAsComb_30      pdf = 5.46469 as = 1.15851 Combined = 5.58614
+ 
+ Wprime Mass = 3 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 7.72035 as = 1.2493 Combined = 7.82078
+PDFAsComb_mc_std  pdf = 7.47954 as = 1.2493 Combined = 7.58316
+PDFAsComb_100     pdf = 7.17033 as = 1.2493 Combined = 7.27835
+PDFAsComb_30      pdf = 5.72725 as = 1.2493 Combined = 5.86192
+ 
+ Wprime Mass = 3.2 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 9.06432 as = 1.25573 Combined = 9.15089
+PDFAsComb_mc_std  pdf = 8.43829 as = 1.25573 Combined = 8.53121
+PDFAsComb_100     pdf = 8.03583 as = 1.25573 Combined = 8.13335
+PDFAsComb_30      pdf = 5.7765 as = 1.25573 Combined = 5.91141
+ 
+ Wprime Mass = 3.4 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 10.1462 as = 1.24142 Combined = 10.2219
+PDFAsComb_mc_std  pdf = 9.34001 as = 1.24142 Combined = 9.42215
+PDFAsComb_100     pdf = 8.88716 as = 1.24142 Combined = 8.97345
+PDFAsComb_30      pdf = 5.83716 as = 1.24142 Combined = 5.96771
+ 
+ Wprime Mass = 3.6 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 12.2681 as = 1.25979 Combined = 12.3326
+PDFAsComb_mc_std  pdf = 11.0638 as = 1.25979 Combined = 11.1353
+PDFAsComb_100     pdf = 10.6281 as = 1.25979 Combined = 10.7025
+PDFAsComb_30      pdf = 6.32835 as = 1.25979 Combined = 6.45253
+ 
+ Wprime Mass = 3.8 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 13.2675 as = 1.17245 Combined = 13.3192
+PDFAsComb_mc_std  pdf = 11.852 as = 1.17245 Combined = 11.9099
+PDFAsComb_100     pdf = 11.3688 as = 1.17245 Combined = 11.4291
+PDFAsComb_30      pdf = 6.38471 as = 1.17245 Combined = 6.49147
+ 
+ Wprime Mass = 4 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 16.3708 as = 1.15182 Combined = 16.4113
+PDFAsComb_mc_std  pdf = 13.9727 as = 1.15182 Combined = 14.0201
+PDFAsComb_100     pdf = 13.5282 as = 1.15182 Combined = 13.5771
+PDFAsComb_30      pdf = 7.25738 as = 1.15182 Combined = 7.34821
+ 
+ Wprime Mass = 4.2 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 17.5846 as = 1.05323 Combined = 17.6161
+PDFAsComb_mc_std  pdf = 15.2371 as = 1.05323 Combined = 15.2735
+PDFAsComb_100     pdf = 14.8194 as = 1.05323 Combined = 14.8568
+PDFAsComb_30      pdf = 7.67585 as = 1.05323 Combined = 7.74777
+ 
+ Wprime Mass = 4.4 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 19.0353 as = 0.972877 Combined = 19.0601
+PDFAsComb_mc_std  pdf = 16.2487 as = 0.972877 Combined = 16.2778
+PDFAsComb_100     pdf = 15.8479 as = 0.972877 Combined = 15.8777
+PDFAsComb_30      pdf = 8.19155 as = 0.972877 Combined = 8.24912
+ 
+ Wprime Mass = 4.6 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 20.1878 as = 0.869887 Combined = 20.2065
+PDFAsComb_mc_std  pdf = 17.1453 as = 0.869887 Combined = 17.1674
+PDFAsComb_100     pdf = 16.7709 as = 0.869887 Combined = 16.7934
+PDFAsComb_30      pdf = 8.94968 as = 0.869887 Combined = 8.99186
+ 
+ Wprime Mass = 4.8 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 22.4541 as = 0.815002 Combined = 22.4689
+PDFAsComb_mc_std  pdf = 18.1891 as = 0.815002 Combined = 18.2073
+PDFAsComb_100     pdf = 17.8087 as = 0.815002 Combined = 17.8273
+PDFAsComb_30      pdf = 9.47997 as = 0.815002 Combined = 9.51494
+ 
+ Wprime Mass = 5 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 21.1399 as = 0.694492 Combined = 21.1513
+PDFAsComb_mc_std  pdf = 17.4985 as = 0.694492 Combined = 17.5123
+PDFAsComb_100     pdf = 17.1414 as = 0.694492 Combined = 17.1555
+PDFAsComb_30      pdf = 9.15478 as = 0.694492 Combined = 9.18108
+ 
+ Wprime Mass = 5.2 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 21.15 as = 0.65 Combined = 21.16
+PDFAsComb_mc_std  pdf = 17.5 as = 0.65 Combined = 17.5121
+PDFAsComb_100     pdf = 17.1209 as = 0.65 Combined = 17.1333
+PDFAsComb_30      pdf = 9.34 as = 0.65 Combined = 9.36259
+ 
+ Wprime Mass = 5.4 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 21.185 as = 0.611267 Combined = 21.1938
+PDFAsComb_mc_std  pdf = 17.5013 as = 0.611267 Combined = 17.512
+PDFAsComb_100     pdf = 17.1005 as = 0.611267 Combined = 17.1114
+PDFAsComb_30      pdf = 9.56603 as = 0.611267 Combined = 9.58554
+ 
+ Wprime Mass = 5.6 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 20.592 as = 0.535798 Combined = 20.599
+PDFAsComb_mc_std  pdf = 16.5446 as = 0.535798 Combined = 16.5533
+PDFAsComb_100     pdf = 16.1698 as = 0.535798 Combined = 16.1787
+PDFAsComb_30      pdf = 9.05223 as = 0.535798 Combined = 9.06807
+ 
+ Wprime Mass = 5.8 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 19.5075 as = 0.517733 Combined = 19.5144
+PDFAsComb_mc_std  pdf = 15.7057 as = 0.517733 Combined = 15.7142
+PDFAsComb_100     pdf = 15.2789 as = 0.517733 Combined = 15.2877
+PDFAsComb_30      pdf = 8.80314 as = 0.517733 Combined = 8.81835
+ 
+ Wprime Mass = 6 TeV/c2 --------------------
+-----Cross Checking Mean value-----------
+PDFAsComb_mc_ord  pdf = 19.1596 as = 0.449259 Combined = 19.1649
+PDFAsComb_mc_std  pdf = 15.0569 as = 0.449259 Combined = 15.0636
+PDFAsComb_100     pdf = 14.6662 as = 0.449259 Combined = 14.6731
+PDFAsComb_30      pdf = 8.52699 as = 0.449259 Combined = 8.53882
+ 
