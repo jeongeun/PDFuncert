@@ -35,7 +35,7 @@ Calculate the PDF uncertainties and alphaS uncertainties and Combine them.
 
 `./pdf4lhc15Uncert.exe [ntuple_addpdf.root] >& uncert.out`
 
-### How to run 
+### Run at once (Step1+Step2)
 
 `./compile.sh # complie .cc to .exe files`
 
