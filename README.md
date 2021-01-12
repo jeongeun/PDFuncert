@@ -9,6 +9,8 @@ CMS twiki = [https://twiki.cern.ch/twiki/bin/viewauth/CMS/PDFatCMS](https://twik
 
 CMS Run3 recommandation = [Katerina's presentation 20200518](https://indico.cern.ch/event/916118/contributions/3866961/attachments/2039823/3415889/GEN_18_May_20.pdf)
 
+NNPDF updates = [NNPDF updates](https://indico.cern.ch/event/882032/contributions/3716354/attachments/1993098/3324611/cms20.pdf)
+
 ### (step 0) Make ntuple (MINIAODSIM)
 
 MakeNpKNU : Make ntuples from MINIAODSIM signal files using condor
