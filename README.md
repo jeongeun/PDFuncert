@@ -5,11 +5,15 @@ PDF4LHC main homepage = [https://www.hep.ucl.ac.uk/pdf4lhc/](https://www.hep.ucl
 
 LHAPDF6 main homepage = [https://lhapdf.hepforge.org/](https://lhapdf.hepforge.org/)
 
+Recent PDF status (NNPDF) = [NNPDF Talk](http://nnpdf.mi.infn.it/documents/talks/)
+
 CMS twiki = [https://twiki.cern.ch/twiki/bin/viewauth/CMS/PDFatCMS](https://twiki.cern.ch/twiki/bin/viewauth/CMS/PDFatCMS)
 
 CMS Run3 recommandation = [Katerina's presentation 20200518](https://indico.cern.ch/event/916118/contributions/3866961/attachments/2039823/3415889/GEN_18_May_20.pdf)
 
-NNPDF updates = [NNPDF updates](https://indico.cern.ch/event/882032/contributions/3716354/attachments/1993098/3324611/cms20.pdf)
+NNPDF Talk1 = [NNPDF talk1 2020](https://indico.cern.ch/event/882032/contributions/3716354/attachments/1993098/3324611/cms20.pdf)
+
+NNPDF Talk2 = [NNPDF talk2 2020](http://nnpdf.mi.infn.it/wp-content/uploads/2019/12/MUbiali_Orsay_122019.pdf)
 
 ### (step 0) Make ntuple (MINIAODSIM)
 
